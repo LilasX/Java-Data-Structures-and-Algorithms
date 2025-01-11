@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;binarytree&apos; to &apos;binarysearchtree&apos;&#x0D;&#x0A;- Original project: &apos;ProjectsUdemyData&apos;&#x0D;&#x0A;- Original element: &apos;ProjectsUdemyData/src/binarytree&apos;&#x0D;&#x0A;- Renamed element: &apos;ProjectsUdemyData/src/binarysearchtree&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;binarytree&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;binarytree" name="binarysearchtree" qualified="false" references="true" stamp="1719554133567" textual="false" version="1.0"/>
+</session>

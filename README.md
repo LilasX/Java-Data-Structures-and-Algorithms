@@ -1,2 +1,2 @@
 # Java-Data-Structures-and-Algorithms
-#Following Udemy Course: Java Data Structures &amp; Algorithms + LEETCODE Exercises BY Scott Barrett.
+Following Udemy Course: Java Data Structures & Algorithms + LEETCODE Exercises BY Scott Barrett.
